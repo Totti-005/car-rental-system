@@ -122,11 +122,8 @@ pro car/
 ## Testing
 
 ### Test Credentials
-
-**Admin Account:**
-
-- Email: admin@procar.local
-- Password: Admin@123
+if you dont have an account you
+first register ....then after registering you log in into your account
 
 **Sample Car:**
 
